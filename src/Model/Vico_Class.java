@@ -7,7 +7,7 @@ public class Vico_Class {
 		//...................my class.....................
         //.........0<>0............XD...
 		
-		
+		System.out.println("invio delle modifiche");
 	}
 
 }
